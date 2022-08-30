@@ -3,8 +3,6 @@
 <div>
 <img src="https://user-images.githubusercontent.com/35015159/137810198-9950e97d-e81b-4378-a665-a7468b996f79.png" width="200" height="400"/>
 <img src="https://user-images.githubusercontent.com/35015159/137810214-436287de-5bd4-4472-bd0c-a0c93e73b61c.png"  width="200" height="400"/>
-  </div>
- <div>
 <img src="https://user-images.githubusercontent.com/35015159/137810233-9e29ded8-2325-4cae-9e90-a1cd88e4be77.png" width="200" height="400"/>
 <img src="https://user-images.githubusercontent.com/35015159/137810241-ec2afe3c-f478-46b0-a56c-3007f506ff95.png" width="200" height="400"/>
 <img src="https://user-images.githubusercontent.com/35015159/137810270-72daeeca-9846-459a-ae5e-72cfa25ef9f0.png"  width="200" height="400"/>
