@@ -1,6 +1,6 @@
 # a-shop
 
-<div flex-flow: column wrap;>
+<div flex: 2;>
 <img src="https://user-images.githubusercontent.com/35015159/137810198-9950e97d-e81b-4378-a665-a7468b996f79.png" width="200" height="400"/>
 <img src="https://user-images.githubusercontent.com/35015159/137810214-436287de-5bd4-4472-bd0c-a0c93e73b61c.png"  width="200" height="400"/>
 <img src="https://user-images.githubusercontent.com/35015159/137810233-9e29ded8-2325-4cae-9e90-a1cd88e4be77.png" width="200" height="400"/>
@@ -14,11 +14,3 @@
 <img src="https://user-images.githubusercontent.com/35015159/137810380-e3313cb6-5abe-486c-bb76-1a1736ff51a0.png"  width="200" height="400"/>
 <img src="https://user-images.githubusercontent.com/35015159/137810353-adab8bf4-8dd9-4a0f-9259-47bb72f34ff4.png"  width="200" height="400"/>
 </div>
-
-
-
-
-
-
-
-
