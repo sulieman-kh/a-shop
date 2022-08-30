@@ -1,6 +1,6 @@
 # a-shop
 
-<img src="https://user-images.githubusercontent.com/35015159/137810198-9950e97d-e81b-4378-a665-a7468b996f79.png" width="200" height="400")/>
+<img src="https://user-images.githubusercontent.com/35015159/137810198-9950e97d-e81b-4378-a665-a7468b996f79.png" width="200" height="400"/>
 
 <img src="https://camo.githubusercontent.com/..." data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
 
