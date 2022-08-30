@@ -1,6 +1,6 @@
 # a-shop
 
-![Screenshot_1634591421](https://user-images.githubusercontent.com/35015159/137810198-9950e97d-e81b-4378-a665-a7468b996f79.png =250*250)
+![Screenshot_1634591421](https://user-images.githubusercontent.com/35015159/137810198-9950e97d-e81b-4378-a665-a7468b996f79.png | width=100)
 
 
 
